@@ -1,2 +1,2 @@
 # calculadora-python
-Calculadora em Python com script, desenvolvido para uma atividade da EBAC.
+Calculadora em Python com script Bash, desenvolvido para uma atividade da EBAC.
